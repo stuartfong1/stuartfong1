@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stuartfong1! I am a student in my final year of high school.
 - 👀 I’m interested in ... Algorithms, keyboard ergonomics
-- 🌱 I’m currently learning ... Graph Theory, Java
+- 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... Anything interesting or exciting
 - 📫 Let's chat! You can contact me by email at stuartfong1@gmail.com
 
