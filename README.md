@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @stuartfong1! I am a student in my final year of high school.
-- 👀 I’m interested in ... Computer science, keyboard ergonomics
-- 🌱 I’m currently learning ... Java
+- 👋 Hi, I’m @stuartfong1! I am an incoming first year student @ Queen's University.
+- 👀 I’m interested in ... Computer science
+- 🌱 I’m currently learning ... Flutter
 - 💞️ I’m looking to collaborate on ... Anything interesting or exciting
 - 📫 Let's chat! You can contact me by email at stuartfong1@gmail.com
 
