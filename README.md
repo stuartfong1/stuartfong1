@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stuartfong1! I am an incoming first year student @ Queen's University.
 - 👀 I’m interested in ... Computer science
-- 🌱 I’m currently learning ... Flutter
+- 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on ... Anything interesting or exciting
 - 📫 Let's chat! You can contact me by email at stuartfong1@gmail.com
 
