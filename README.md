@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stuartfong1! I am an incoming first year student @ Queen's University.
+- 👋 Hi, I’m @stuartfong1! I am an first year CS student @ Queen's University.
 - 👀 I’m interested in ... Computer science
 - 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on ... Anything interesting or exciting
