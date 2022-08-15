@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @stuartfong1! I am a first year CS student @ Queen's University.
-- 👀 I’m interested in ... Computer science
+- 👋 Hi, I’m @stuartfong1! I am a second year CS + Math student @ Queen's University.
+- 👀 I’m interested in ... Data Science & Machine Learning
 - 🌱 I’m currently learning ... MATLAB
-- 💞️ I’m looking to collaborate on ... Anything interesting or exciting
+- 💞️ I’m looking to collaborate on ... Interesting hackathon projects
 - 📫 Let's chat! You can contact me by email at stuartfong1@gmail.com
 
 <!---
