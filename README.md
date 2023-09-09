@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stuartfong1! I am a second year CS + Math student @ Queen's University.
+- 👋 Hi, I’m @stuartfong1! I am a third year CS + Math student @ Queen's University.
 - 👀 I’m interested in ... Data Science & Machine Learning
 - 🌱 I’m currently learning ... MATLAB
 - 💞️ I’m looking to collaborate on ... Interesting hackathon projects
